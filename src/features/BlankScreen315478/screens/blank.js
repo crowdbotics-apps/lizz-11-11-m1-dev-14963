@@ -28,121 +28,204 @@ export default class Blank extends React.Component {
 
   render = () => (
     <ScrollView contentContainerStyle={{ flexGrow: 1 }}>
-      <View style={styles.View_10413_4}>
-        <View style={styles.View_10413_5}>
-          <Text style={styles.Text_10413_5}>Latino</Text>
-        </View>
-        <View style={styles.View_10413_6} />
-        <View style={styles.View_10413_7}>
-          <Text style={styles.Text_10413_7}>BARCELONA</Text>
-        </View>
-        <ImageBackground
-          source={{
-            uri:
-              "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/1a27/6422/148a62d040106614890cb88c8f5708c0"
-          }}
-          style={styles.ImageBackground_10413_8}
-        />
-        <View style={styles.View_10413_9}>
-          <Text style={styles.Text_10413_9}>La Gringa</Text>
-        </View>
-        <View style={styles.View_10413_10}>
-          <Text style={styles.Text_10413_10}>Mexican-American</Text>
-        </View>
-        <View style={styles.View_10413_11}>
-          <Text style={styles.Text_10413_11}>€15/person</Text>
-        </View>
-        <ImageBackground
-          source={{
-            uri:
-              "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/4733/46dc/a1efc0bb71d27dec361583a2c2c16ed9"
-          }}
-          style={styles.ImageBackground_10413_12}
-        />
-        <View style={styles.View_10413_13}>
-          <Text style={styles.Text_10413_13}>El Pachuco</Text>
-        </View>
-        <View style={styles.View_10413_14}>
-          <Text style={styles.Text_10413_14}>Best nachos in town</Text>
-        </View>
-        <View style={styles.View_10413_15}>
-          <Text style={styles.Text_10413_15}>€15/person</Text>
-        </View>
-        <ImageBackground
-          source={{
-            uri:
-              "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/8034/2bd4/015feb7904c77780ada70b6885dab9ed"
-          }}
-          style={styles.ImageBackground_10413_16}
-        />
-        <View style={styles.View_10413_17}>
-          <Text style={styles.Text_10413_17}>Taco Alto Born</Text>
-        </View>
-        <View style={styles.View_10413_18}>
-          <Text style={styles.Text_10413_18}>Mexican-American</Text>
-        </View>
-        <View style={styles.View_10413_19}>
-          <Text style={styles.Text_10413_19}>€15/person</Text>
-        </View>
-        <ImageBackground
-          source={{
-            uri:
-              "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/09c5/2f12/6e86a17be1709e8c47a12382cd7f5c44"
-          }}
-          style={styles.ImageBackground_10413_20}
-        />
-        <View style={styles.View_10413_21}>
-          <Text style={styles.Text_10413_21}>El Tamarindo</Text>
-        </View>
-        <View style={styles.View_10413_22}>
-          <Text style={styles.Text_10413_22}>Best nachos in town</Text>
-        </View>
-        <View style={styles.View_10413_23}>
-          <Text style={styles.Text_10413_23}>€15/person</Text>
-        </View>
-        <ImageBackground
-          source={{
-            uri:
-              "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/4839/54b9/7590ff9afa251649c8781c0b2bff1345"
-          }}
-          style={styles.ImageBackground_10413_24}
-        />
-        <View style={styles.View_10413_25}>
-          <Text style={styles.Text_10413_25}>La Taqueria</Text>
-        </View>
-        <View style={styles.View_10413_26}>
-          <Text style={styles.Text_10413_26}>Mexican-American</Text>
-        </View>
-        <View style={styles.View_10413_27}>
-          <Text style={styles.Text_10413_27}>€15/person</Text>
-        </View>
-        <ImageBackground
-          source={{
-            uri:
-              "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/3b07/af8e/30b8bd1206f844dd30d4c64487c96e8f"
-          }}
-          style={styles.ImageBackground_10413_28}
-        />
-        <View style={styles.View_10413_29}>
-          <Text style={styles.Text_10413_29}>La Fabrica del Tacos</Text>
-        </View>
-        <View style={styles.View_10413_30}>
-          <Text style={styles.Text_10413_30}>Best nachos in town</Text>
-        </View>
-        <View style={styles.View_10413_31}>
-          <Text style={styles.Text_10413_31}>€15/person</Text>
-        </View>
-        <View style={styles.View_10413_32} />
-        <View style={styles.View_10413_33} />
-        <View style={styles.View_10413_34}>
+      <View style={styles.View_10417_1088}>
+        <View style={styles.View_10417_1089}>
           <ImageBackground
             source={{
               uri:
-                "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/60dc/78b0/ba45f4e1d386355aa7729816786f4c79"
+                "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/7b68/71be/ff21c8ae5b38e910f4361adb7814bf20"
             }}
-            style={styles.ImageBackground_10413_35}
+            style={styles.ImageBackground_10417_1090}
           />
-          <View style={styles.View_10413_36} />
+          <View style={styles.View_10417_1091} />
+          <View style={styles.View_10417_1092}>
+            <Text style={styles.Text_10417_1092}>
+              Euro 2020 qualification latest: Italy clinch their spot last
+              minute
+            </Text>
+          </View>
+          <View style={styles.View_10417_1093}>
+            <Text style={styles.Text_10417_1093}>39m • Alden Johngon</Text>
+          </View>
+        </View>
+        <View style={styles.View_10417_1094}>
+          <ImageBackground style={styles.ImageBackground_10417_1095} />
+          <View style={styles.View_10417_1096}>
+            <Text style={styles.Text_10417_1096}>
+              Euro 2020 qualification latest: Italy clinch their spot last
+              minute
+            </Text>
+          </View>
+          <View style={styles.View_10417_1097}>
+            <Text style={styles.Text_10417_1097}>39m • Alden Johngon</Text>
+          </View>
+        </View>
+        <View style={styles.View_10417_1098}>
+          <View style={styles.View_10417_1099} />
+          <ImageBackground
+            source={{
+              uri:
+                "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/df85/64d4/12a0e3015789dae66bb2ea42a55bde65"
+            }}
+            style={styles.ImageBackground_10417_1100}
+          />
+          <View style={styles.View_10417_1101}>
+            <Text style={styles.Text_10417_1101}>
+              England’s faith in protocol was rewarded, now UEFA gets tough
+            </Text>
+          </View>
+          <View style={styles.View_10417_1102}>
+            <Text style={styles.Text_10417_1102}>2h • Alden Johngon</Text>
+          </View>
+          <View style={styles.View_10417_1103}>
+            <Text style={styles.Text_10417_1103}>
+              The football team have the change to make it seven wins on the
+              spin this...
+            </Text>
+          </View>
+        </View>
+        <View style={styles.View_10417_1104}>
+          <View style={styles.View_10417_1105} />
+          <ImageBackground
+            source={{
+              uri:
+                "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/5b3a/b8ad/446cfa75c49a1172bb18b1e56aa878f1"
+            }}
+            style={styles.ImageBackground_10417_1106}
+          />
+          <View style={styles.View_10417_1107}>
+            <Text style={styles.Text_10417_1107}>
+              Why Gladonia won’t go unbeaten in the Premier League
+            </Text>
+          </View>
+          <View style={styles.View_10417_1108}>
+            <Text style={styles.Text_10417_1108}>2h • Alden Johngon</Text>
+          </View>
+          <View style={styles.View_10417_1109}>
+            <Text style={styles.Text_10417_1109}>
+              The football team have the change to make it seven wins on the
+              spin this...
+            </Text>
+          </View>
+        </View>
+        <View style={styles.View_10417_1110}>
+          <View style={styles.View_10417_1111} />
+          <ImageBackground
+            source={{
+              uri:
+                "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/88c7/cc70/9a3bdaca2cc05133d6f37d9dc7db9bf9"
+            }}
+            style={styles.ImageBackground_10417_1112}
+          />
+          <View style={styles.View_10417_1113}>
+            <Text style={styles.Text_10417_1113}>
+              Smith goal gives Atletico 1-0 win over Manchester
+            </Text>
+          </View>
+          <View style={styles.View_10417_1114}>
+            <Text style={styles.Text_10417_1114}>2h • Alden Johngon</Text>
+          </View>
+          <View style={styles.View_10417_1115}>
+            <Text style={styles.Text_10417_1115}>
+              The football team have the change to make it seven wins on the
+              spin this...
+            </Text>
+          </View>
+        </View>
+        <View style={styles.View_10417_1116}>
+          <View style={styles.View_10417_1117} />
+          <ImageBackground
+            source={{
+              uri:
+                "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/98fe/416b/50ad7a54e800623cad09b4f38960610e"
+            }}
+            style={styles.ImageBackground_10417_1118}
+          />
+          <View style={styles.View_10417_1119}>
+            <Text style={styles.Text_10417_1119}>2h • Alden Johngon</Text>
+          </View>
+          <View style={styles.View_10417_1120}>
+            <Text style={styles.Text_10417_1120}>
+              The football team have the change to make it seven wins on the
+              spin this...
+            </Text>
+          </View>
+          <View style={styles.View_10417_1121}>
+            <Text style={styles.Text_10417_1121}>
+              England’s faith in protocol was rewarded, now UEFA gets tough
+            </Text>
+          </View>
+        </View>
+        <View style={styles.View_10417_1122}>
+          <View style={styles.View_10417_1123} />
+          <ImageBackground
+            source={{
+              uri:
+                "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/5b3a/b8ad/446cfa75c49a1172bb18b1e56aa878f1"
+            }}
+            style={styles.ImageBackground_10417_1124}
+          />
+          <View style={styles.View_10417_1125}>
+            <Text style={styles.Text_10417_1125}>
+              Why Gladonia won’t go unbeaten in the Premier League
+            </Text>
+          </View>
+          <View style={styles.View_10417_1126}>
+            <Text style={styles.Text_10417_1126}>2h • Alden Johngon</Text>
+          </View>
+          <View style={styles.View_10417_1127}>
+            <Text style={styles.Text_10417_1127}>
+              The football team have the change to make it seven wins on the
+              spin this...
+            </Text>
+          </View>
+        </View>
+        <View style={styles.View_10417_1128}>
+          <View style={styles.View_10417_1129} />
+          <ImageBackground
+            source={{
+              uri:
+                "https://s3-us-west-2.amazonaws.com/figma-alpha-api/img/88c7/cc70/9a3bdaca2cc05133d6f37d9dc7db9bf9"
+            }}
+            style={styles.ImageBackground_10417_1130}
+          />
+          <View style={styles.View_10417_1131}>
+            <Text style={styles.Text_10417_1131}>
+              Smith goal gives Atletico 1-0 win over Manchester
+            </Text>
+          </View>
+          <View style={styles.View_10417_1132}>
+            <Text style={styles.Text_10417_1132}>2h • Alden Johngon</Text>
+          </View>
+          <View style={styles.View_10417_1133}>
+            <Text style={styles.Text_10417_1133}>
+              The football team have the change to make it seven wins on the
+              spin this...
+            </Text>
+          </View>
+        </View>
+      </View>
+      <View style={styles.View_10417_1134}>
+        <View style={styles.View_10417_1135}>
+          <Text style={styles.Text_10417_1135}>Feed</Text>
+        </View>
+        <View style={styles.View_10417_1136}>
+          <View style={styles.View_10417_1137} />
+          <View style={styles.View_10417_1138}>
+            <Text style={styles.Text_10417_1138}>News</Text>
+          </View>
+        </View>
+        <View style={styles.View_10417_1139}>
+          <View style={styles.View_10417_1140} />
+          <View style={styles.View_10417_1141}>
+            <Text style={styles.Text_10417_1141}>Scores</Text>
+          </View>
+        </View>
+        <View style={styles.View_10417_1142}>
+          <View style={styles.View_10417_1143} />
+          <View style={styles.View_10417_1144}>
+            <Text style={styles.Text_10417_1144}>Transfers</Text>
+          </View>
         </View>
       </View>
       <View style={styles.View_2} />
@@ -152,538 +235,927 @@ export default class Blank extends React.Component {
 
 const styles = StyleSheet.create({
   ScrollView_1: {},
-  View_10413_4: {
+  View_10417_1088: {
     width: 375,
-    minWidth: 375,
-    height: 920,
-    minHeight: 920,
+    height: 1480,
+    top: 0,
+    marginLeft: 0,
+    marginTop: 0,
+    position: "absolute",
+    left: 0,
+    backgroundColor: "rgba(0, 0, 0, 0)"
+  },
+  View_10417_1089: {
+    width: 350,
+    minWidth: 350,
+    height: 197,
+    minHeight: 197,
+    marginLeft: 0,
+    marginTop: 0,
+    position: "absolute",
+    left: 13,
+    top: 154
+  },
+  ImageBackground_10417_1090: {
+    width: 350,
+    minWidth: 350,
+    height: 197,
+    minHeight: 197,
     marginLeft: 0,
     marginTop: 0,
     position: "absolute",
     left: 0,
     top: 0,
-    backgroundColor: "rgba(0, 0, 0, 0)",
-    overflow: "hidden"
+    resizeMode: "cover",
+    borderTopLeftRadius: 10,
+    borderTopRightRadius: 10,
+    borderBottomLeftRadius: 10,
+    borderBottomRightRadius: 10
   },
-  View_10413_5: {
-    width: 179,
-    minWidth: 179,
-    height: 36,
-    minHeight: 36,
-    marginLeft: 0,
-    marginTop: 0,
-    position: "absolute",
-    left: 20,
-    top: 135
-  },
-  Text_10413_5: {
-    color: "rgba(70, 70, 70, 1)",
-    fontSize: 30,
-    fontWeight: "400",
-    textAlign: "left",
-    fontStyle: "normal",
-    letterSpacing: 0
-  },
-  View_10413_6: {
-    width: 90,
-    minWidth: 90,
-    height: 26,
-    minHeight: 26,
-    marginLeft: 0,
-    marginTop: 0,
-    position: "absolute",
-    left: 20,
-    top: 87,
-    backgroundColor: "rgba(255, 230, 0, 1)"
-  },
-  View_10413_7: {
-    width: 90,
-    minWidth: 90,
-    height: 19,
-    minHeight: 19,
-    marginLeft: 0,
-    marginTop: 0,
-    position: "absolute",
-    left: 20,
-    top: 91
-  },
-  Text_10413_7: {
-    color: "rgba(0, 0, 0, 1)",
-    fontSize: 14,
-    fontWeight: "700",
-    textAlign: "center",
-    fontStyle: "normal",
-    letterSpacing: 0
-  },
-  ImageBackground_10413_8: {
-    width: 175,
-    minWidth: 175,
-    height: 143,
-    minHeight: 143,
-    marginLeft: 0,
-    marginTop: 0,
-    position: "absolute",
-    left: 8,
-    top: 182,
-    resizeMode: "cover"
-  },
-  View_10413_9: {
-    width: 169,
-    minWidth: 169,
-    height: 21,
-    minHeight: 21,
-    marginLeft: 0,
-    marginTop: 0,
-    position: "absolute",
-    left: 14,
-    top: 335
-  },
-  Text_10413_9: {
-    color: "rgba(70, 70, 70, 1)",
-    fontSize: 16,
-    fontWeight: "700",
-    textAlign: "left",
-    fontStyle: "normal",
-    letterSpacing: 0
-  },
-  View_10413_10: {
-    width: 169,
-    minWidth: 169,
-    height: 19,
-    minHeight: 19,
-    marginLeft: 0,
-    marginTop: 0,
-    position: "absolute",
-    left: 14,
-    top: 359
-  },
-  Text_10413_10: {
-    color: "rgba(84, 84, 84, 1)",
-    fontSize: 16,
-    fontWeight: "400",
-    textAlign: "left",
-    fontStyle: "normal",
-    letterSpacing: 0
-  },
-  View_10413_11: {
-    width: 169,
-    minWidth: 169,
-    height: 37,
-    minHeight: 37,
-    marginLeft: 0,
-    marginTop: 0,
-    position: "absolute",
-    left: 14,
-    top: 382
-  },
-  Text_10413_11: {
-    color: "rgba(0, 54, 255, 1)",
-    fontSize: 16,
-    fontWeight: "400",
-    textAlign: "left",
-    fontStyle: "normal",
-    letterSpacing: 0
-  },
-  ImageBackground_10413_12: {
-    width: 175,
-    minWidth: 175,
-    height: 143,
-    minHeight: 143,
-    marginLeft: 0,
-    marginTop: 0,
-    position: "absolute",
-    left: 191,
-    top: 182,
-    resizeMode: "cover"
-  },
-  View_10413_13: {
-    width: 169,
-    minWidth: 169,
-    height: 21,
-    minHeight: 21,
-    marginLeft: 0,
-    marginTop: 0,
-    position: "absolute",
-    left: 197,
-    top: 335
-  },
-  Text_10413_13: {
-    color: "rgba(70, 70, 70, 1)",
-    fontSize: 16,
-    fontWeight: "700",
-    textAlign: "left",
-    fontStyle: "normal",
-    letterSpacing: 0
-  },
-  View_10413_14: {
-    width: 169,
-    minWidth: 169,
-    height: 19,
-    minHeight: 19,
-    marginLeft: 0,
-    marginTop: 0,
-    position: "absolute",
-    left: 197,
-    top: 359
-  },
-  Text_10413_14: {
-    color: "rgba(84, 84, 84, 1)",
-    fontSize: 16,
-    fontWeight: "400",
-    textAlign: "left",
-    fontStyle: "normal",
-    letterSpacing: 0
-  },
-  View_10413_15: {
-    width: 169,
-    minWidth: 169,
-    height: 37,
-    minHeight: 37,
-    marginLeft: 0,
-    marginTop: 0,
-    position: "absolute",
-    left: 197,
-    top: 382
-  },
-  Text_10413_15: {
-    color: "rgba(0, 54, 255, 1)",
-    fontSize: 16,
-    fontWeight: "400",
-    textAlign: "left",
-    fontStyle: "normal",
-    letterSpacing: 0
-  },
-  ImageBackground_10413_16: {
-    width: 175,
-    minWidth: 175,
-    height: 143,
-    minHeight: 143,
-    marginLeft: 0,
-    marginTop: 0,
-    position: "absolute",
-    left: 8,
-    top: 423,
-    resizeMode: "cover"
-  },
-  View_10413_17: {
-    width: 169,
-    minWidth: 169,
-    height: 21,
-    minHeight: 21,
-    marginLeft: 0,
-    marginTop: 0,
-    position: "absolute",
-    left: 14,
-    top: 576
-  },
-  Text_10413_17: {
-    color: "rgba(70, 70, 70, 1)",
-    fontSize: 16,
-    fontWeight: "700",
-    textAlign: "left",
-    fontStyle: "normal",
-    letterSpacing: 0
-  },
-  View_10413_18: {
-    width: 169,
-    minWidth: 169,
-    height: 19,
-    minHeight: 19,
-    marginLeft: 0,
-    marginTop: 0,
-    position: "absolute",
-    left: 14,
-    top: 600
-  },
-  Text_10413_18: {
-    color: "rgba(84, 84, 84, 1)",
-    fontSize: 16,
-    fontWeight: "400",
-    textAlign: "left",
-    fontStyle: "normal",
-    letterSpacing: 0
-  },
-  View_10413_19: {
-    width: 169,
-    minWidth: 169,
-    height: 37,
-    minHeight: 37,
-    marginLeft: 0,
-    marginTop: 0,
-    position: "absolute",
-    left: 14,
-    top: 623
-  },
-  Text_10413_19: {
-    color: "rgba(0, 54, 255, 1)",
-    fontSize: 16,
-    fontWeight: "400",
-    textAlign: "left",
-    fontStyle: "normal",
-    letterSpacing: 0
-  },
-  ImageBackground_10413_20: {
-    width: 175,
-    minWidth: 175,
-    height: 143,
-    minHeight: 143,
-    marginLeft: 0,
-    marginTop: 0,
-    position: "absolute",
-    left: 191,
-    top: 423,
-    resizeMode: "cover"
-  },
-  View_10413_21: {
-    width: 169,
-    minWidth: 169,
-    height: 21,
-    minHeight: 21,
-    marginLeft: 0,
-    marginTop: 0,
-    position: "absolute",
-    left: 197,
-    top: 576
-  },
-  Text_10413_21: {
-    color: "rgba(70, 70, 70, 1)",
-    fontSize: 16,
-    fontWeight: "700",
-    textAlign: "left",
-    fontStyle: "normal",
-    letterSpacing: 0
-  },
-  View_10413_22: {
-    width: 169,
-    minWidth: 169,
-    height: 19,
-    minHeight: 19,
-    marginLeft: 0,
-    marginTop: 0,
-    position: "absolute",
-    left: 197,
-    top: 600
-  },
-  Text_10413_22: {
-    color: "rgba(84, 84, 84, 1)",
-    fontSize: 16,
-    fontWeight: "400",
-    textAlign: "left",
-    fontStyle: "normal",
-    letterSpacing: 0
-  },
-  View_10413_23: {
-    width: 169,
-    minWidth: 169,
-    height: 37,
-    minHeight: 37,
-    marginLeft: 0,
-    marginTop: 0,
-    position: "absolute",
-    left: 197,
-    top: 623
-  },
-  Text_10413_23: {
-    color: "rgba(0, 54, 255, 1)",
-    fontSize: 16,
-    fontWeight: "400",
-    textAlign: "left",
-    fontStyle: "normal",
-    letterSpacing: 0
-  },
-  ImageBackground_10413_24: {
-    width: 175,
-    minWidth: 175,
-    height: 143,
-    minHeight: 143,
-    marginLeft: 0,
-    marginTop: 0,
-    position: "absolute",
-    left: 8,
-    top: 664,
-    resizeMode: "cover"
-  },
-  View_10413_25: {
-    width: 169,
-    minWidth: 169,
-    height: 21,
-    minHeight: 21,
-    marginLeft: 0,
-    marginTop: 0,
-    position: "absolute",
-    left: 14,
-    top: 817
-  },
-  Text_10413_25: {
-    color: "rgba(70, 70, 70, 1)",
-    fontSize: 16,
-    fontWeight: "700",
-    textAlign: "left",
-    fontStyle: "normal",
-    letterSpacing: 0
-  },
-  View_10413_26: {
-    width: 169,
-    minWidth: 169,
-    height: 19,
-    minHeight: 19,
-    marginLeft: 0,
-    marginTop: 0,
-    position: "absolute",
-    left: 14,
-    top: 841
-  },
-  Text_10413_26: {
-    color: "rgba(84, 84, 84, 1)",
-    fontSize: 16,
-    fontWeight: "400",
-    textAlign: "left",
-    fontStyle: "normal",
-    letterSpacing: 0
-  },
-  View_10413_27: {
-    width: 169,
-    minWidth: 169,
-    height: 37,
-    minHeight: 37,
-    marginLeft: 0,
-    marginTop: 0,
-    position: "absolute",
-    left: 14,
-    top: 864
-  },
-  Text_10413_27: {
-    color: "rgba(0, 54, 255, 1)",
-    fontSize: 16,
-    fontWeight: "400",
-    textAlign: "left",
-    fontStyle: "normal",
-    letterSpacing: 0
-  },
-  ImageBackground_10413_28: {
-    width: 175,
-    minWidth: 175,
-    height: 143,
-    minHeight: 143,
-    marginLeft: 0,
-    marginTop: 0,
-    position: "absolute",
-    left: 191,
-    top: 664,
-    resizeMode: "cover"
-  },
-  View_10413_29: {
-    width: 169,
-    minWidth: 169,
-    height: 21,
-    minHeight: 21,
-    marginLeft: 0,
-    marginTop: 0,
-    position: "absolute",
-    left: 197,
-    top: 817
-  },
-  Text_10413_29: {
-    color: "rgba(70, 70, 70, 1)",
-    fontSize: 16,
-    fontWeight: "700",
-    textAlign: "left",
-    fontStyle: "normal",
-    letterSpacing: 0
-  },
-  View_10413_30: {
-    width: 169,
-    minWidth: 169,
-    height: 19,
-    minHeight: 19,
-    marginLeft: 0,
-    marginTop: 0,
-    position: "absolute",
-    left: 197,
-    top: 841
-  },
-  Text_10413_30: {
-    color: "rgba(84, 84, 84, 1)",
-    fontSize: 16,
-    fontWeight: "400",
-    textAlign: "left",
-    fontStyle: "normal",
-    letterSpacing: 0
-  },
-  View_10413_31: {
-    width: 169,
-    minWidth: 169,
-    height: 37,
-    minHeight: 37,
-    marginLeft: 0,
-    marginTop: 0,
-    position: "absolute",
-    left: 197,
-    top: 864
-  },
-  Text_10413_31: {
-    color: "rgba(0, 54, 255, 1)",
-    fontSize: 16,
-    fontWeight: "400",
-    textAlign: "left",
-    fontStyle: "normal",
-    letterSpacing: 0
-  },
-  View_10413_32: {
-    width: 187,
-    minWidth: 187,
-    height: 229,
-    minHeight: 229,
+  View_10417_1091: {
+    width: 350,
+    minWidth: 350,
+    height: 197,
+    minHeight: 197,
     marginLeft: 0,
     marginTop: 0,
     position: "absolute",
     left: 0,
-    top: 182
+    top: 0,
+    borderTopLeftRadius: 20,
+    borderTopRightRadius: 20,
+    borderBottomLeftRadius: 20,
+    borderBottomRightRadius: 20
   },
-  View_10413_33: {
-    width: 188,
-    minWidth: 188,
-    height: 229,
-    minHeight: 229,
+  View_10417_1092: {
+    width: 311.89111328125,
+    minWidth: 311.89111328125,
+    height: 57,
+    minHeight: 57,
     marginLeft: 0,
     marginTop: 0,
     position: "absolute",
-    left: 187,
-    top: 182
+    left: 15.042980194091797,
+    top: 107
   },
-  View_10413_34: {
-    width: 74,
-    minWidth: 74,
-    height: 65,
-    minHeight: 65,
+  Text_10417_1092: {
+    color: "rgba(255, 255, 255, 1)",
+    fontSize: 20,
+    fontWeight: "500",
+    textAlign: "left",
+    fontStyle: "normal",
+    letterSpacing: 0
+  },
+  View_10417_1093: {
+    width: 183.52435302734375,
+    minWidth: 183.52435302734375,
+    height: 18,
+    minHeight: 18,
     marginLeft: 0,
     marginTop: 0,
     position: "absolute",
-    left: -1,
-    top: 15
+    left: 15.042980194091797,
+    top: 166
   },
-  ImageBackground_10413_35: {
-    width: 16,
-    minWidth: 16,
-    height: 16,
-    minHeight: 16,
+  Text_10417_1093: {
+    color: "rgba(255, 255, 255, 1)",
+    fontSize: 10,
+    fontWeight: "500",
+    textAlign: "left",
+    fontStyle: "normal",
+    letterSpacing: 0
+  },
+  View_10417_1094: {
+    width: 350,
+    minWidth: 350,
+    height: 197,
+    minHeight: 197,
     marginLeft: 0,
     marginTop: 0,
     position: "absolute",
-    left: 26,
-    top: 25,
-    resizeMode: "cover"
+    left: 14,
+    top: 810
   },
-  View_10413_36: {
-    width: 74,
-    minWidth: 74,
-    height: 65,
-    minHeight: 65,
+  ImageBackground_10417_1095: {
+    width: 350,
+    minWidth: 350,
+    height: 197,
+    minHeight: 197,
     marginLeft: 0,
     marginTop: 0,
     position: "absolute",
     left: 0,
     top: 0
   },
-  View_2: { height: 920 }
+  View_10417_1096: {
+    width: 311.89111328125,
+    minWidth: 311.89111328125,
+    height: 57,
+    minHeight: 57,
+    marginLeft: 0,
+    marginTop: 0,
+    position: "absolute",
+    left: 15.042957305908203,
+    top: 107
+  },
+  Text_10417_1096: {
+    color: "rgba(255, 255, 255, 1)",
+    fontSize: 20,
+    fontWeight: "500",
+    textAlign: "left",
+    fontStyle: "normal",
+    letterSpacing: 0
+  },
+  View_10417_1097: {
+    width: 183.52435302734375,
+    minWidth: 183.52435302734375,
+    height: 18,
+    minHeight: 18,
+    marginLeft: 0,
+    marginTop: 0,
+    position: "absolute",
+    left: 15.042957305908203,
+    top: 166
+  },
+  Text_10417_1097: {
+    color: "rgba(255, 255, 255, 1)",
+    fontSize: 10,
+    fontWeight: "500",
+    textAlign: "left",
+    fontStyle: "normal",
+    letterSpacing: 0
+  },
+  View_10417_1098: {
+    width: 350,
+    minWidth: 350,
+    height: 133,
+    minHeight: 133,
+    marginLeft: 0,
+    marginTop: 0,
+    position: "absolute",
+    left: 13,
+    top: 366
+  },
+  View_10417_1099: {
+    width: 350,
+    minWidth: 350,
+    height: 133,
+    minHeight: 133,
+    marginLeft: 0,
+    marginTop: 0,
+    position: "absolute",
+    left: 0,
+    top: 0,
+    backgroundColor: "rgba(255, 255, 255, 1)",
+    borderTopLeftRadius: 20,
+    borderTopRightRadius: 20,
+    borderBottomLeftRadius: 20,
+    borderBottomRightRadius: 20
+  },
+  ImageBackground_10417_1100: {
+    width: 110,
+    minWidth: 110,
+    height: 133,
+    minHeight: 133,
+    marginLeft: 0,
+    marginTop: 0,
+    position: "absolute",
+    left: 0,
+    top: 0,
+    resizeMode: "cover",
+    borderTopLeftRadius: 20,
+    borderTopRightRadius: 20,
+    borderBottomLeftRadius: 20,
+    borderBottomRightRadius: 20
+  },
+  View_10417_1101: {
+    width: 211,
+    minWidth: 211,
+    height: 41,
+    minHeight: 41,
+    marginLeft: 0,
+    marginTop: 0,
+    position: "absolute",
+    left: 129,
+    top: 17
+  },
+  Text_10417_1101: {
+    color: "rgba(51, 51, 51, 1)",
+    fontSize: 14,
+    fontWeight: "500",
+    textAlign: "left",
+    fontStyle: "normal",
+    letterSpacing: 0
+  },
+  View_10417_1102: {
+    width: 194,
+    minWidth: 194,
+    height: 23.274999618530273,
+    minHeight: 23.274999618530273,
+    marginLeft: 0,
+    marginTop: 0,
+    position: "absolute",
+    left: 129,
+    top: 91.4375
+  },
+  Text_10417_1102: {
+    color: "rgba(51, 51, 51, 1)",
+    fontSize: 10,
+    fontWeight: "300",
+    textAlign: "left",
+    fontStyle: "normal",
+    letterSpacing: 0
+  },
+  View_10417_1103: {
+    width: 198,
+    minWidth: 198,
+    height: 38,
+    minHeight: 38,
+    marginLeft: 0,
+    marginTop: 0,
+    position: "absolute",
+    left: 129,
+    top: 55
+  },
+  Text_10417_1103: {
+    color: "rgba(51, 51, 51, 1)",
+    fontSize: 12,
+    fontWeight: "300",
+    textAlign: "left",
+    fontStyle: "normal",
+    letterSpacing: 0
+  },
+  View_10417_1104: {
+    width: 350,
+    minWidth: 350,
+    height: 133,
+    minHeight: 133,
+    marginLeft: 0,
+    marginTop: 0,
+    position: "absolute",
+    left: 13,
+    top: 514
+  },
+  View_10417_1105: {
+    width: 350,
+    minWidth: 350,
+    height: 133,
+    minHeight: 133,
+    marginLeft: 0,
+    marginTop: 0,
+    position: "absolute",
+    left: 0,
+    top: 0,
+    backgroundColor: "rgba(255, 255, 255, 1)",
+    borderTopLeftRadius: 20,
+    borderTopRightRadius: 20,
+    borderBottomLeftRadius: 20,
+    borderBottomRightRadius: 20
+  },
+  ImageBackground_10417_1106: {
+    width: 110,
+    minWidth: 110,
+    height: 133,
+    minHeight: 133,
+    marginLeft: 0,
+    marginTop: 0,
+    position: "absolute",
+    left: 0,
+    top: 0,
+    resizeMode: "cover",
+    borderTopLeftRadius: 20,
+    borderTopRightRadius: 20,
+    borderBottomLeftRadius: 20,
+    borderBottomRightRadius: 20
+  },
+  View_10417_1107: {
+    width: 211,
+    minWidth: 211,
+    height: 41,
+    minHeight: 41,
+    marginLeft: 0,
+    marginTop: 0,
+    position: "absolute",
+    left: 129,
+    top: 17
+  },
+  Text_10417_1107: {
+    color: "rgba(51, 51, 51, 1)",
+    fontSize: 14,
+    fontWeight: "500",
+    textAlign: "left",
+    fontStyle: "normal",
+    letterSpacing: 0
+  },
+  View_10417_1108: {
+    width: 194,
+    minWidth: 194,
+    height: 23.274999618530273,
+    minHeight: 23.274999618530273,
+    marginLeft: 0,
+    marginTop: 0,
+    position: "absolute",
+    left: 129,
+    top: 91.4375
+  },
+  Text_10417_1108: {
+    color: "rgba(51, 51, 51, 1)",
+    fontSize: 10,
+    fontWeight: "300",
+    textAlign: "left",
+    fontStyle: "normal",
+    letterSpacing: 0
+  },
+  View_10417_1109: {
+    width: 198,
+    minWidth: 198,
+    height: 38,
+    minHeight: 38,
+    marginLeft: 0,
+    marginTop: 0,
+    position: "absolute",
+    left: 129,
+    top: 55
+  },
+  Text_10417_1109: {
+    color: "rgba(51, 51, 51, 1)",
+    fontSize: 12,
+    fontWeight: "300",
+    textAlign: "left",
+    fontStyle: "normal",
+    letterSpacing: 0
+  },
+  View_10417_1110: {
+    width: 350,
+    minWidth: 350,
+    height: 133,
+    minHeight: 133,
+    marginLeft: 0,
+    marginTop: 0,
+    position: "absolute",
+    left: 12,
+    top: 662
+  },
+  View_10417_1111: {
+    width: 350,
+    minWidth: 350,
+    height: 133,
+    minHeight: 133,
+    marginLeft: 0,
+    marginTop: 0,
+    position: "absolute",
+    left: 0,
+    top: 0,
+    backgroundColor: "rgba(255, 255, 255, 1)",
+    borderTopLeftRadius: 20,
+    borderTopRightRadius: 20,
+    borderBottomLeftRadius: 20,
+    borderBottomRightRadius: 20
+  },
+  ImageBackground_10417_1112: {
+    width: 110,
+    minWidth: 110,
+    height: 133,
+    minHeight: 133,
+    marginLeft: 0,
+    marginTop: 0,
+    position: "absolute",
+    left: 0,
+    top: 0,
+    resizeMode: "cover",
+    borderTopLeftRadius: 20,
+    borderTopRightRadius: 20,
+    borderBottomLeftRadius: 20,
+    borderBottomRightRadius: 20
+  },
+  View_10417_1113: {
+    width: 211,
+    minWidth: 211,
+    height: 41,
+    minHeight: 41,
+    marginLeft: 0,
+    marginTop: 0,
+    position: "absolute",
+    left: 129,
+    top: 17
+  },
+  Text_10417_1113: {
+    color: "rgba(51, 51, 51, 1)",
+    fontSize: 14,
+    fontWeight: "500",
+    textAlign: "left",
+    fontStyle: "normal",
+    letterSpacing: 0
+  },
+  View_10417_1114: {
+    width: 194,
+    minWidth: 194,
+    height: 23.274999618530273,
+    minHeight: 23.274999618530273,
+    marginLeft: 0,
+    marginTop: 0,
+    position: "absolute",
+    left: 129,
+    top: 91.4375
+  },
+  Text_10417_1114: {
+    color: "rgba(51, 51, 51, 1)",
+    fontSize: 10,
+    fontWeight: "300",
+    textAlign: "left",
+    fontStyle: "normal",
+    letterSpacing: 0
+  },
+  View_10417_1115: {
+    width: 198,
+    minWidth: 198,
+    height: 38,
+    minHeight: 38,
+    marginLeft: 0,
+    marginTop: 0,
+    position: "absolute",
+    left: 129,
+    top: 55
+  },
+  Text_10417_1115: {
+    color: "rgba(51, 51, 51, 1)",
+    fontSize: 12,
+    fontWeight: "300",
+    textAlign: "left",
+    fontStyle: "normal",
+    letterSpacing: 0
+  },
+  View_10417_1116: {
+    width: 350,
+    minWidth: 350,
+    height: 133,
+    minHeight: 133,
+    marginLeft: 0,
+    marginTop: 0,
+    position: "absolute",
+    left: 14,
+    top: 1022
+  },
+  View_10417_1117: {
+    width: 350,
+    minWidth: 350,
+    height: 133,
+    minHeight: 133,
+    marginLeft: 0,
+    marginTop: 0,
+    position: "absolute",
+    left: 0,
+    top: 0,
+    backgroundColor: "rgba(255, 255, 255, 1)",
+    borderTopLeftRadius: 20,
+    borderTopRightRadius: 20,
+    borderBottomLeftRadius: 20,
+    borderBottomRightRadius: 20
+  },
+  ImageBackground_10417_1118: {
+    width: 110,
+    minWidth: 110,
+    height: 133,
+    minHeight: 133,
+    marginLeft: 0,
+    marginTop: 0,
+    position: "absolute",
+    left: 0,
+    top: 0,
+    resizeMode: "cover",
+    borderTopLeftRadius: 20,
+    borderTopRightRadius: 20,
+    borderBottomLeftRadius: 20,
+    borderBottomRightRadius: 20
+  },
+  View_10417_1119: {
+    width: 194,
+    minWidth: 194,
+    height: 23.274999618530273,
+    minHeight: 23.274999618530273,
+    marginLeft: 0,
+    marginTop: 0,
+    position: "absolute",
+    left: 129,
+    top: 91.4375
+  },
+  Text_10417_1119: {
+    color: "rgba(51, 51, 51, 1)",
+    fontSize: 10,
+    fontWeight: "300",
+    textAlign: "left",
+    fontStyle: "normal",
+    letterSpacing: 0
+  },
+  View_10417_1120: {
+    width: 198,
+    minWidth: 198,
+    height: 38,
+    minHeight: 38,
+    marginLeft: 0,
+    marginTop: 0,
+    position: "absolute",
+    left: 129,
+    top: 55
+  },
+  Text_10417_1120: {
+    color: "rgba(51, 51, 51, 1)",
+    fontSize: 12,
+    fontWeight: "300",
+    textAlign: "left",
+    fontStyle: "normal",
+    letterSpacing: 0
+  },
+  View_10417_1121: {
+    width: 211,
+    minWidth: 211,
+    height: 41,
+    minHeight: 41,
+    marginLeft: 0,
+    marginTop: 0,
+    position: "absolute",
+    left: 128,
+    top: 16
+  },
+  Text_10417_1121: {
+    color: "rgba(51, 51, 51, 1)",
+    fontSize: 14,
+    fontWeight: "500",
+    textAlign: "left",
+    fontStyle: "normal",
+    letterSpacing: 0
+  },
+  View_10417_1122: {
+    width: 350,
+    minWidth: 350,
+    height: 133,
+    minHeight: 133,
+    marginLeft: 0,
+    marginTop: 0,
+    position: "absolute",
+    left: 14,
+    top: 1170
+  },
+  View_10417_1123: {
+    width: 350,
+    minWidth: 350,
+    height: 133,
+    minHeight: 133,
+    marginLeft: 0,
+    marginTop: 0,
+    position: "absolute",
+    left: 0,
+    top: 0,
+    backgroundColor: "rgba(255, 255, 255, 1)",
+    borderTopLeftRadius: 20,
+    borderTopRightRadius: 20,
+    borderBottomLeftRadius: 20,
+    borderBottomRightRadius: 20
+  },
+  ImageBackground_10417_1124: {
+    width: 110,
+    minWidth: 110,
+    height: 133,
+    minHeight: 133,
+    marginLeft: 0,
+    marginTop: 0,
+    position: "absolute",
+    left: 0,
+    top: 0,
+    resizeMode: "cover",
+    borderTopLeftRadius: 20,
+    borderTopRightRadius: 20,
+    borderBottomLeftRadius: 20,
+    borderBottomRightRadius: 20
+  },
+  View_10417_1125: {
+    width: 211,
+    minWidth: 211,
+    height: 41,
+    minHeight: 41,
+    marginLeft: 0,
+    marginTop: 0,
+    position: "absolute",
+    left: 129,
+    top: 17
+  },
+  Text_10417_1125: {
+    color: "rgba(51, 51, 51, 1)",
+    fontSize: 14,
+    fontWeight: "500",
+    textAlign: "left",
+    fontStyle: "normal",
+    letterSpacing: 0
+  },
+  View_10417_1126: {
+    width: 194,
+    minWidth: 194,
+    height: 23.274999618530273,
+    minHeight: 23.274999618530273,
+    marginLeft: 0,
+    marginTop: 0,
+    position: "absolute",
+    left: 129,
+    top: 91.4375
+  },
+  Text_10417_1126: {
+    color: "rgba(51, 51, 51, 1)",
+    fontSize: 10,
+    fontWeight: "300",
+    textAlign: "left",
+    fontStyle: "normal",
+    letterSpacing: 0
+  },
+  View_10417_1127: {
+    width: 198,
+    minWidth: 198,
+    height: 38,
+    minHeight: 38,
+    marginLeft: 0,
+    marginTop: 0,
+    position: "absolute",
+    left: 129,
+    top: 55
+  },
+  Text_10417_1127: {
+    color: "rgba(51, 51, 51, 1)",
+    fontSize: 12,
+    fontWeight: "300",
+    textAlign: "left",
+    fontStyle: "normal",
+    letterSpacing: 0
+  },
+  View_10417_1128: {
+    width: 350,
+    minWidth: 350,
+    height: 133,
+    minHeight: 133,
+    marginLeft: 0,
+    marginTop: 0,
+    position: "absolute",
+    left: 13,
+    top: 1318
+  },
+  View_10417_1129: {
+    width: 350,
+    minWidth: 350,
+    height: 133,
+    minHeight: 133,
+    marginLeft: 0,
+    marginTop: 0,
+    position: "absolute",
+    left: 0,
+    top: 0,
+    backgroundColor: "rgba(255, 255, 255, 1)",
+    borderTopLeftRadius: 20,
+    borderTopRightRadius: 20,
+    borderBottomLeftRadius: 20,
+    borderBottomRightRadius: 20
+  },
+  ImageBackground_10417_1130: {
+    width: 110,
+    minWidth: 110,
+    height: 133,
+    minHeight: 133,
+    marginLeft: 0,
+    marginTop: 0,
+    position: "absolute",
+    left: 0,
+    top: 0,
+    resizeMode: "cover",
+    borderTopLeftRadius: 20,
+    borderTopRightRadius: 20,
+    borderBottomLeftRadius: 20,
+    borderBottomRightRadius: 20
+  },
+  View_10417_1131: {
+    width: 211,
+    minWidth: 211,
+    height: 41,
+    minHeight: 41,
+    marginLeft: 0,
+    marginTop: 0,
+    position: "absolute",
+    left: 129,
+    top: 17
+  },
+  Text_10417_1131: {
+    color: "rgba(51, 51, 51, 1)",
+    fontSize: 14,
+    fontWeight: "500",
+    textAlign: "left",
+    fontStyle: "normal",
+    letterSpacing: 0
+  },
+  View_10417_1132: {
+    width: 194,
+    minWidth: 194,
+    height: 23.274999618530273,
+    minHeight: 23.274999618530273,
+    marginLeft: 0,
+    marginTop: 0,
+    position: "absolute",
+    left: 129,
+    top: 91.4375
+  },
+  Text_10417_1132: {
+    color: "rgba(51, 51, 51, 1)",
+    fontSize: 10,
+    fontWeight: "300",
+    textAlign: "left",
+    fontStyle: "normal",
+    letterSpacing: 0
+  },
+  View_10417_1133: {
+    width: 198,
+    minWidth: 198,
+    height: 38,
+    minHeight: 38,
+    marginLeft: 0,
+    marginTop: 0,
+    position: "absolute",
+    left: 129,
+    top: 55
+  },
+  Text_10417_1133: {
+    color: "rgba(51, 51, 51, 1)",
+    fontSize: 12,
+    fontWeight: "300",
+    textAlign: "left",
+    fontStyle: "normal",
+    letterSpacing: 0
+  },
+  View_10417_1134: {
+    width: 375,
+    minWidth: 375,
+    height: 139,
+    minHeight: 139,
+    marginLeft: 0,
+    marginTop: 0,
+    position: "absolute",
+    left: 0,
+    top: 0,
+    backgroundColor: "rgba(243, 245, 249, 1)",
+    overflow: "hidden"
+  },
+  View_10417_1135: {
+    width: 299,
+    minWidth: 299,
+    height: 38,
+    minHeight: 38,
+    marginLeft: 0,
+    marginTop: 0,
+    position: "absolute",
+    left: 13,
+    top: 44
+  },
+  Text_10417_1135: {
+    color: "rgba(0, 24, 72, 1)",
+    fontSize: 32,
+    fontWeight: "500",
+    textAlign: "left",
+    fontStyle: "normal",
+    letterSpacing: 0
+  },
+  View_10417_1136: {
+    width: 112.33134460449219,
+    minWidth: 112.33134460449219,
+    height: 32,
+    minHeight: 32,
+    marginLeft: 0,
+    marginTop: 0,
+    position: "absolute",
+    left: 13,
+    top: 100
+  },
+  View_10417_1137: {
+    width: 112.33134460449219,
+    minWidth: 112.33134460449219,
+    height: 32,
+    minHeight: 32,
+    marginLeft: 0,
+    marginTop: 0,
+    position: "absolute",
+    left: 0,
+    top: 0,
+    backgroundColor: "rgba(206, 17, 39, 1)",
+    opacity: 0.4000000059604645,
+    borderTopLeftRadius: 100,
+    borderTopRightRadius: 100,
+    borderBottomLeftRadius: 100,
+    borderBottomRightRadius: 100
+  },
+  View_10417_1138: {
+    width: 112.33134460449219,
+    minWidth: 112.33134460449219,
+    height: 32,
+    minHeight: 32,
+    marginLeft: 0,
+    marginTop: 0,
+    position: "absolute",
+    left: 0,
+    top: 0
+  },
+  Text_10417_1138: {
+    color: "rgba(255, 255, 255, 1)",
+    fontSize: 16,
+    fontWeight: "500",
+    textAlign: "center",
+    fontStyle: "normal",
+    letterSpacing: 0
+  },
+  View_10417_1139: {
+    width: 112.33134460449219,
+    minWidth: 112.33134460449219,
+    height: 32,
+    minHeight: 32,
+    marginLeft: 0,
+    marginTop: 0,
+    position: "absolute",
+    left: 130.72120666503906,
+    top: 100
+  },
+  View_10417_1140: {
+    width: 112.33134460449219,
+    minWidth: 112.33134460449219,
+    height: 32,
+    minHeight: 32,
+    marginLeft: 0,
+    marginTop: 0,
+    position: "absolute",
+    left: 0,
+    top: 0,
+    backgroundColor: "rgba(206, 17, 39, 1)",
+    opacity: 0.4000000059604645,
+    borderTopLeftRadius: 100,
+    borderTopRightRadius: 100,
+    borderBottomLeftRadius: 100,
+    borderBottomRightRadius: 100
+  },
+  View_10417_1141: {
+    width: 112.33134460449219,
+    minWidth: 112.33134460449219,
+    height: 32,
+    minHeight: 32,
+    marginLeft: 0,
+    marginTop: 0,
+    position: "absolute",
+    left: 0,
+    top: 0
+  },
+  Text_10417_1141: {
+    color: "rgba(255, 255, 255, 1)",
+    fontSize: 16,
+    fontWeight: "500",
+    textAlign: "center",
+    fontStyle: "normal",
+    letterSpacing: 0
+  },
+  View_10417_1142: {
+    width: 112.33134460449219,
+    minWidth: 112.33134460449219,
+    height: 32,
+    minHeight: 32,
+    marginLeft: 0,
+    marginTop: 0,
+    position: "absolute",
+    left: 249.6686553955078,
+    top: 100
+  },
+  View_10417_1143: {
+    width: 112.33134460449219,
+    minWidth: 112.33134460449219,
+    height: 32,
+    minHeight: 32,
+    marginLeft: 0,
+    marginTop: 0,
+    position: "absolute",
+    left: 0,
+    top: 0,
+    backgroundColor: "rgba(206, 17, 39, 1)",
+    borderTopLeftRadius: 100,
+    borderTopRightRadius: 100,
+    borderBottomLeftRadius: 100,
+    borderBottomRightRadius: 100
+  },
+  View_10417_1144: {
+    width: 112.33134460449219,
+    minWidth: 112.33134460449219,
+    height: 32,
+    minHeight: 32,
+    marginLeft: 0,
+    marginTop: 0,
+    position: "absolute",
+    left: 0,
+    top: 0
+  },
+  Text_10417_1144: {
+    color: "rgba(255, 255, 255, 1)",
+    fontSize: 16,
+    fontWeight: "500",
+    textAlign: "center",
+    fontStyle: "normal",
+    letterSpacing: 0
+  },
+  View_2: { height: 1480 }
 })
